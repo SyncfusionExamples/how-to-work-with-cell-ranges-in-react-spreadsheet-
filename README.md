@@ -1,6 +1,6 @@
 # How to Work with Cell Ranges in React Spreadsheet
 
-A quick-start project that helps you work with cell ranges in the Syncfusion React Spreadsheet component. This project contains code snippets to wrap text, merge two or more cells, apply data validation, and auto fill data in a cell range. It also contains code to clear formatting, hyperlinks, formulas, and content.
+A quick-start project that helps you work with cell ranges in the [React Spreadsheet](https://www.syncfusion.com/spreadsheet-editor-sdk/react-spreadsheet-editor) component. This project contains code snippets to wrap text, merge two or more cells, apply data validation, and auto fill data in a cell range. It also contains code to clear formatting, hyperlinks, formulas, and content.
 
 Documentation: https://ej2.syncfusion.com/react/documentation/spreadsheet/cell-range
 
